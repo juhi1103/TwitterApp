@@ -49,6 +49,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/33XSt5j.gif)
+![Screen Recording 2022-02-15 at 8 18 06 PM](https://user-images.githubusercontent.com/67602583/154181716-d2eefed4-a863-4dc7-8710-c1d95be0a89a.gif)
+
 
 
