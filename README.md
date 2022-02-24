@@ -23,7 +23,8 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](https://i.imgur.com/BUyD5EL.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/67602583/155625929-70f22a38-e7c3-4015-9b87-af3538d918fb.gif)
+
 
 
 **Twitter** is a basic twitter app to read your tweets.
